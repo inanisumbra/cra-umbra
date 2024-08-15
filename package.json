@@ -1,0 +1,33 @@
+{
+  "name": "cra-umbra",
+  "version": "1.0.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "twin.macro",
+    "emotion",
+    "framer/motion",
+    "jotai",
+    "date-fns",
+    "react-toastify",
+    "pre-commit",
+    "prettier",
+    "jest",
+    "storybook"
+  ],
+  "description": "Full Umbra Javascript Create React Template.",
+  "license": "MIT",
+  "engines": {
+    "node": ">=17"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ],
+  "author": {
+    "email": "derekmssr@gmail.com",
+    "name": "Derek Musser",
+    "url": "https://github.com/inanisumbra"
+  }
+}
